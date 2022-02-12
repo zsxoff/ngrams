@@ -1,6 +1,6 @@
 # ngrams
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/zsxoff/ngrams.svg)](https://pkg.go.dev/github.com/zsxoff/ngrams)[![Go Report Card](https://goreportcard.com/badge/github.com/zsxoff/ngrams)](https://goreportcard.com/report/github.com/zsxoff/ngrams)
+[![Go Reference](https://pkg.go.dev/badge/github.com/zsxoff/ngrams.svg)](https://pkg.go.dev/github.com/zsxoff/ngrams) [![Go Report Card](https://goreportcard.com/badge/github.com/zsxoff/ngrams)](https://goreportcard.com/report/github.com/zsxoff/ngrams)
 
 Create sequence of N items from a given string.
 
