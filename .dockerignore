@@ -1,0 +1,21 @@
+# ignore .git and .cache folders
+.git
+.cache
+
+# Markdown
+*.md
+
+# generated files
+.cover
+*.cov
+*.prof
+*.test
+
+# env
+.env
+
+# GoLand
+/.idea/
+
+# VS Code
+/.vscode/
