@@ -1,12 +1,10 @@
 # ngrams
 
-> Create sequence of N items from a given string.
+[![Go Reference](https://pkg.go.dev/badge/github.com/zsxoff/ngrams.svg)](https://pkg.go.dev/github.com/zsxoff/ngrams)[![Go Report Card](https://goreportcard.com/badge/github.com/zsxoff/ngrams)](https://goreportcard.com/report/github.com/zsxoff/ngrams)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/zsxoff/ngrams)](https://goreportcard.com/report/github.com/zsxoff/ngrams)
+Create sequence of N items from a given string.
 
----
-
-## Usage example
+## Usage
 
 ```go
 import (
@@ -45,8 +43,6 @@ for i, ngram := range ngrams.Trigrams(s) {
 // 2 llo
 // 3 lo!
 ```
-
----
 
 ## License
 
