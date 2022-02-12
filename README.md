@@ -2,6 +2,12 @@
 
 > Create sequence of N items from a given string.
 
+---
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/zsxoff/ngrams)](https://goreportcard.com/report/github.com/zsxoff/ngrams)
+
+---
+
 ## Usage example
 
 ```go
