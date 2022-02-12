@@ -4,6 +4,12 @@
 
 Create sequence of N items from a given string.
 
+## Installation
+
+```bash
+go get github.com/zsxoff/ngrams@latest
+```
+
 ## Usage
 
 ```go
