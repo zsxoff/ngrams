@@ -29,6 +29,8 @@ func main() {
 Also you can use `Unigrams(line string)`, `Bigrams(line string)` and `Trigrams(line string)` like
 
 ```go
+s := "Hello!"
+
 for i, ngram := range ngrams.Trigrams(s) {
     fmt.Println(i, ngram)
 }
